@@ -10,5 +10,5 @@ args:
 - --location=${_LOCATION}
 - --cluster=${_GKE_CLUSTER}
 substitutions:
-	_LOCATION: europe-west4-a
-	_GKE_CLUSTER: workshop-gke-cluster-1
+  _LOCATION: europe-west4-a
+  _GKE_CLUSTER: workshop-gke-cluster-1
